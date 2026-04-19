@@ -1,5 +1,6 @@
+git init
 git add .
-git commit -m "final production build"
+git commit -m "production build"
 git branch -M main
 git remote add origin https://github.com/k83183a/super-app.git
 git push -u origin main
